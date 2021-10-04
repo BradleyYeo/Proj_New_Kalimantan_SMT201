@@ -35,8 +35,8 @@
         }
       ],
       "date": "`r Sys.Date()`",
-      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2021-10-04T17:17:51+08:00"
+      "contents": "\n1.0 About East Kalimantan\nWe will be analysing the East Kalimantan province project within our project. Within East Kalimantan, we will analyse the Samarinda and Balikpapan Regency/City.\n1.1 Background\nIndonesia is going to relocate its new capital from Jakarta to a new city in East Kalimantan, Borneo.\n1.2 Motivation\nJakarta has been the capital of Indonesia since 1949. We aim to recommend a new capital city for Indonesia based on the geospatial characteristics of the location.\n1.3 Objective\nIn this project we will be studying the following areas:\n\n\n\n",
+      "last_modified": "2021-10-04T17:23:17+08:00"
     }
   ],
   "collections": []

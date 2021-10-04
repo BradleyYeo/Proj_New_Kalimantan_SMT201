@@ -41,5 +41,11 @@ Jakarta has been the capital of Indonesia since 1949. We aim to recommend a new 
 *In this project we will be studying the following areas:*
 **Bold**
 
-Hello TEAM
+
+
+![](img/image1.jpg)
+<center>
+  *Fig.2 - Singapore Coastal Outline*
+</center>
+
 

@@ -1,0 +1,33 @@
+---
+title: "Overview"
+description: |
+  GIS Project Overview
+author:
+  - name: Ashlyn Yip 
+    url: https://example.com/norajones
+    affiliation: School of Computing and Information Systems, Singapore Management University
+    affiliation_url: https://scis.smu.edu.sg/
+  - name: Bradley Yeo Kian 
+    url: https://example.com/norajones
+    affiliation: School of Computing and Information Systems, Singapore Management University
+    affiliation_url: https://scis.smu.edu.sg/
+  - name: Crissie Tan 
+    url: https://example.com/norajones
+    affiliation: School of Computing and Information Systems, Singapore Management University
+    affiliation_url: https://scis.smu.edu.sg/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web. 
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+
+
+
+

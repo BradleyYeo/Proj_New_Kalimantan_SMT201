@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-10-04T16:50:18+08:00"
+      "last_modified": "2021-10-04T17:17:48+08:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,29 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-10-04T17:01:38+08:00"
+      "last_modified": "2021-10-04T17:17:48+08:00"
+    },
+    {
+      "path": "overview.html",
+      "title": "Overview",
+      "description": "GIS Project Overview\n",
+      "author": [
+        {
+          "name": "Ashlyn Yip",
+          "url": "https://example.com/norajones"
+        },
+        {
+          "name": "Bradley Yeo Kian",
+          "url": "https://example.com/norajones"
+        },
+        {
+          "name": "Crissie Tan",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2021-10-04T17:17:51+08:00"
     }
   ],
   "collections": []

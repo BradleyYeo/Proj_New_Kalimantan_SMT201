@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-10-04T16:50:18+08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "SMT201 GIS Project Website",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-10-04T17:01:38+08:00"
+    }
+  ],
+  "collections": []
+}

@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-10-04T17:17:48+08:00"
+      "last_modified": "2021-10-04T18:34:47+08:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-10-04T17:17:48+08:00"
+      "last_modified": "2021-10-04T18:34:47+08:00"
     },
     {
       "path": "overview.html",
@@ -35,8 +35,8 @@
         }
       ],
       "date": "`r Sys.Date()`",
-      "contents": "\n\nContents\n1 About East Kalimantan\n1.1 Background\n1.2 Motivation\n1.3 Objective\n\n\n1 About East Kalimantan\n\nWe will be analysing the East Kalimantan province project within our project. Within East Kalimantan, we will analyse the Samarinda and Balikpapan Regency/City.\n\n1.1 Background\nIndonesia is going to relocate its new capital from Jakarta to a new city in East Kalimantan, Borneo.\n1.2 Motivation\nJakarta has been the capital of Indonesia since 1949. We aim to recommend a new capital city for Indonesia based on the geospatial characteristics of the location.\n1.3 Objective\nIn this project we will be studying the following areas: Bold\n\n\n\n",
-      "last_modified": "2021-10-04T17:47:21+08:00"
+      "contents": "\n\nContents\n1 About East Kalimantan\n1.1 Background\n1.2 Motivation\n1.3 Objective\n\n\n1 About East Kalimantan\n\nWe will be analysing the East Kalimantan province project within our project. Within East Kalimantan, we will analyse the Samarinda and Balikpapan Regency/City.\n\n1.1 Background\nIndonesia is going to relocate its new capital from Jakarta to a new city in East Kalimantan, Borneo.\n1.2 Motivation\nJakarta has been the capital of Indonesia since 1949. We aim to recommend a new capital city for Indonesia based on the geospatial characteristics of the location.\n1.3 Objective\nIn this project we will be studying the following areas: Bold\nHello TEAM\n\n\n\n",
+      "last_modified": "2021-10-04T18:35:17+08:00"
     }
   ],
   "collections": []

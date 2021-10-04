@@ -11,31 +11,34 @@ author:
     url: https://example.com/norajones
     affiliation: School of Computing and Information Systems, Singapore Management University
     affiliation_url: https://scis.smu.edu.sg/
+    
   - name: Crissie Tan 
     url: https://example.com/norajones
     affiliation: School of Computing and Information Systems, Singapore Management University
     affiliation_url: https://scis.smu.edu.sg/
 date: "`r Sys.Date()`"
-output: distill::distill_article
+output: 
+  distill::distill_article:
+    toc: true
+    toc_depth: 3
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# 1.0 About East Kalimantan
-We will be analysing the East Kalimantan province project within our project. Within East Kalimantan, we will analyse the Samarinda and Balikpapan Regency/City.
+# 1 About East Kalimantan
+> We will be analysing the East Kalimantan province project within our project. Within East Kalimantan, we will analyse the Samarinda and Balikpapan Regency/City.
 
 ## 1.1 Background
 
-Indonesia is going to relocate its new capital from Jakarta to a new city in East Kalimantan, Borneo.
+- Indonesia is going to relocate its new capital from Jakarta to a new city in East Kalimantan, Borneo.
 
 ## 1.2 Motivation 
 Jakarta has been the capital of Indonesia since 1949. We aim to recommend a new capital city for Indonesia based on the geospatial characteristics of the location.
 
-
 ## 1.3 Objective
-In this project we will be studying the following areas:
-
+*In this project we will be studying the following areas:*
+**Bold**
 
 

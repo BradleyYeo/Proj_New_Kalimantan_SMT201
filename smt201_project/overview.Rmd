@@ -46,8 +46,8 @@ The beauty of the chosen Kutai Kartanegara and Penajam Paser Utara Municipality 
 ## 1.3 Objective
 We aim to recommend a new capital city for Indonesia based on the geospatial characteristics of the location.
 
-In this project we will be studying the following areas:
-1. Population and Demographics
+### In this project we will be studying the following areas: 
+1. Population and Demographics  
 2. Economy
 3. Transport and Communication
 4. Infrastructure

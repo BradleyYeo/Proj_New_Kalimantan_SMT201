@@ -34,16 +34,16 @@ knitr::opts_chunk$set(echo = FALSE)
 We will be analysing the East Kalimantan province project within our project. Within East Kalimantan, we will analyse the Samarinda and Balikpapan Regency/City.
 
 
-## 1.1 Background
+## 2 Background
 
 Jakarta has been the capital of Indonesia since 1949, and it's experiencing rapid growth like no other. Given the excessive number of vehicles on congested roads, this has not only polluted the air, but also decreased the productivity of the nation as people spend a large amount of time idling in traffic.With that in mind, Indonesia is going to relocate its new capital from Jakarta to a new city in East Kalimantan, Borneo. 
 
-## 1.2 Motivation 
+## 3 Motivation 
 Despite Kalimantan being four times bigger than Java, it is concerning that it accounts for less than a tenth of the gross domestic production. With Java accounting for 60% of the country’s population and more than 50% of economic activity, the shift of the country’s capital to Kalimantan is inevitable. 
 
 The beauty of the chosen Kutai Kartanegara and Penajam Paser Utara Municipality in East Kalimantan is that it (1) has a lower exposure to natural disaster (2) geographically located at the centre of Indonesia and (3) has more space than Jarkarta to create new opportunities for migrants from other parts of Indonesia. All in all, this strategic shift will address the issue of inequality and relieve the burden on Jakarta. 
 
-## 1.3 Objective
+## 4 Objective
 We aim to recommend a new capital city for Indonesia based on the geospatial characteristics of the location.
 
 ### In this project we will be studying the following areas: 
@@ -52,6 +52,12 @@ We aim to recommend a new capital city for Indonesia based on the geospatial cha
 3. Transport and Communication
 4. Infrastructure
 5. Environment and Hazards
+
+## 5 Data Sources
+
+## 6 Scope of Work
+
+## 7 Project Schedule in Gantt Chart
 
 ![]()
 <center>

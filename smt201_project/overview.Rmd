@@ -70,11 +70,10 @@ We aim to recommend a new capital city for Indonesia based on the geospatial cha
 
 ## 7 Project Schedule in Gantt Chart
 
-.center[
 ![](img/201_plan.png)
-]
+
 <center>
-  *Fig.2 - Map of East Kalimantan*
+  *Project Schedule*
 </center>
 
 

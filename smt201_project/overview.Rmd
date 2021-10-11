@@ -56,7 +56,18 @@ We aim to recommend a new capital city for Indonesia based on the geospatial cha
 ## 5 Data Sources
 
 ## 6 Scope of Work
-
+### Ashlyn Yip
+- Poster
+- Population and Demographics Map
+- Transport and Communication (Buildings) Map
+### Bradley Yeo Kian
+- Website
+- GDP Map
+- Roads, Seaport and Airport Map
+### Crissie Tan 
+- Project Artifact
+- Environmental Hazards Map
+- DEM Map
 ## 7 Project Schedule in Gantt Chart
 
 ![]()

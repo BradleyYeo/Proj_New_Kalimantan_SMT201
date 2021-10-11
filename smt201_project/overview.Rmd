@@ -30,9 +30,6 @@ knitr::opts_chunk$set(echo = FALSE)
 # 1 About East Kalimantan
 > We will be analysing the East Kalimantan province project within our project. Within East Kalimantan, we will analyse the Samarinda and Balikpapan Regency/City.
 
-# 1.0 About East Kalimantan
-We will be analysing the East Kalimantan province project within our project. Within East Kalimantan, we will analyse the Samarinda and Balikpapan Regency/City.
-
 
 ## 2 Background
 
@@ -68,6 +65,7 @@ We aim to recommend a new capital city for Indonesia based on the geospatial cha
 - Project Artifact
 - Environmental Hazards Map
 - DEM Map
+
 ## 7 Project Schedule in Gantt Chart
 
 ![]()

@@ -27,7 +27,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# 1 About East Kalimantan
+## 1 About East Kalimantan
 > We will be analysing the East Kalimantan province project within our project. Within East Kalimantan, we will analyse the Samarinda and Balikpapan Regency/City.
 
 
@@ -57,10 +57,12 @@ We aim to recommend a new capital city for Indonesia based on the geospatial cha
 - Poster
 - Population and Demographics Map
 - Transport and Communication (Buildings) Map
+
 ### Bradley Yeo Kian
 - Website
 - GDP Map
 - Roads, Seaport and Airport Map
+
 ### Crissie Tan 
 - Project Artifact
 - Environmental Hazards Map
@@ -68,7 +70,9 @@ We aim to recommend a new capital city for Indonesia based on the geospatial cha
 
 ## 7 Project Schedule in Gantt Chart
 
-![]()
+.center[
+![](img/201_plan.png)
+]
 <center>
   *Fig.2 - Map of East Kalimantan*
 </center>

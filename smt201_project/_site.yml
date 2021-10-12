@@ -9,13 +9,11 @@ navbar:
       href: overview.html
     - text: "Data Preparation"
       href: dataprep.html
-    - text: "Report of Survey"
+    - text: "Project Proposal"
       href: survey.html
-    - text: "Site Selection Analysis"
-      href: site_selection.html
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "About Us"
       href: about.html
 output: distill::distill_article

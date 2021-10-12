@@ -4,16 +4,12 @@ description: |
   GIS Project Overview
 author:
   - name: Ashlyn Yip 
-    url: https://example.com/norajones
     affiliation: School of Computing and Information Systems, Singapore Management University
     affiliation_url: https://scis.smu.edu.sg/
   - name: Bradley Yeo Kian 
-    url: https://example.com/norajones
     affiliation: School of Computing and Information Systems, Singapore Management University
     affiliation_url: https://scis.smu.edu.sg/
-    
   - name: Crissie Tan 
-    url: https://example.com/norajones
     affiliation: School of Computing and Information Systems, Singapore Management University
     affiliation_url: https://scis.smu.edu.sg/
 date: "`r Sys.Date()`"
@@ -69,9 +65,7 @@ We aim to recommend a new capital city for Indonesia based on the geospatial cha
 - DEM Map
 
 ## 7 Project Schedule in Gantt Chart
-
-![](img/201_plan.png)
-
+![](img/gantt_chart.png)
 <center>
   *Project Schedule*
 </center>

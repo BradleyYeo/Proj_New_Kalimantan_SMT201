@@ -57,15 +57,15 @@
       "description": "PDF of Project Poster\n",
       "author": [],
       "contents": "\n\nContents\nHello Bradley\n\nHello Bradley\n\n\n\n",
-      "last_modified": "2021-10-11T20:18:38+08:00"
+      "last_modified": "2021-10-16T15:22:00+08:00"
     },
     {
       "path": "report.html",
       "title": "Data Preparation",
       "description": "GIS Project Data Preparation\ndate: \"`r Sys.Date()`\"\n",
       "author": [],
-      "contents": "\n\nContents\n\n\n\n\n\n\n",
-      "last_modified": "2021-10-12T08:31:01+08:00"
+      "contents": "\nCheck out our report here:\n[https://docs.google.com/document/d/13V6LrphOoKGFe6g9McHAKHi2kOyaiaaXUaS2X3hOntI/edit?usp=sharing]\n\n\n\n",
+      "last_modified": "2021-10-16T15:22:19+08:00"
     }
   ],
   "collections": []

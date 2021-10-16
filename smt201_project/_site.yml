@@ -7,10 +7,10 @@ navbar:
   left:
     - text: "Overview"
       href: overview.html
-    - text: "Data Preparation"
-      href: dataprep.html
-    - text: "Project Proposal"
-      href: survey.html
+    - text: "Report"
+      href: Report.html
+    - text: "Poster"
+      href: Poster.html
   right:
     - text: "Home"
       href: index.html

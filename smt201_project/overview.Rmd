@@ -24,8 +24,23 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## 1 About East Kalimantan
-> We will be analysing the East Kalimantan province project within our project. Within East Kalimantan, we will analyse the Samarinda and Balikpapan Regency/City.
+> We will be analysing the East Kalimantan province project within our project. Within East Kalimantan, we will analyse the **Samarinda** and **Balikpapan Regency/City**.
 
+- **North Penajam Paser**:
+  - Babulu
+  - Penajam
+  - Sepaku and Waru
+
+- **Kutai Kartanegara**:
+  - Anggana
+  - Loa Janan
+  - Loa Kulu
+  - Marang Kayu
+  - Muara Jawa
+  - Samboja
+  - Sanga Sanga
+  - Sebulu Tenaggarong
+  - Tenggarong Seberang
 
 ## 2 Background
 

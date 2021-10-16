@@ -10,7 +10,7 @@ navbar:
     - text: "Report"
       href: Report.html
     - text: "Poster"
-      href: Poster.html
+      href: poster.html
   right:
     - text: "Home"
       href: index.html

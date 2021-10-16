@@ -61,11 +61,11 @@
     },
     {
       "path": "report.html",
-      "title": "Data Preparation",
-      "description": "GIS Project Data Preparation\ndate: \"`r Sys.Date()`\"\n",
+      "title": "Report",
+      "description": "GIS Project Report\n",
       "author": [],
       "contents": "\nCheck out our report here:\nReport\n\n\n\n",
-      "last_modified": "2021-10-16T15:31:30+08:00"
+      "last_modified": "2021-10-16T15:34:48+08:00"
     }
   ],
   "collections": []

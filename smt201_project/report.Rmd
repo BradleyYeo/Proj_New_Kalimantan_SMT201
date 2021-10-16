@@ -1,8 +1,7 @@
 ---
-title: "Data Preparation"
+title: "Report"
 description: |
-  GIS Project Data Preparation
-  date: "`r Sys.Date()`"
+  GIS Project Report
 output: 
   distill::distill_article:
     toc: true

@@ -12,3 +12,9 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/website.html
 
 ```
+
+![](img/east_kalimantan.png)
+
+<center>
+  *Site for Analysis*
+</center>

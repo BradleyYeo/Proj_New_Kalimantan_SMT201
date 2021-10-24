@@ -18,7 +18,7 @@ author:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-![](img/group_picture.png)
+![](img/group_photo.png)
 <center>
   *The Team*
 </center>

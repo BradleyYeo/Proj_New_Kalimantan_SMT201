@@ -2,7 +2,7 @@
 title: "Project Sepaku"
 main_findings: "The new capital of Indonesia should be in Binuang, Sepaku"
 main_fontfamily: "Roboto Slab"
-main_width: "0.3"
+main_width: "0.25"
 main_textsize: "120px"
 main_textcol: "#353B39"
 poster_height: "23.39in"
@@ -26,22 +26,21 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Problem:
-> Indonesia needs to relocate the new capital from Jakarta to city in East Kalimantan, Borneo.
-
-> It is very difficult to analyse the entire province of East Kalimantan using either Google Maps or hand-drawn maps. This is because of the huge land area and many differences in topological characteristics of the land.
+> Indonesia needs to relocate the new capital from Jakarta to a city in East Kalimantan, Borneo.
 
 ## Motivation 
 1. Leverage GIS skills to  analyse a *large land area*.
 2. *Learn Bahasa Indonesia* to translate fields into English.
 3. Integrate *dirty* and *missing data* from *multiple sources*.
 
-## GIS Analysis Techniques used (Approach):
+## Approach:
 1. Raster Distance
-2. Binary Analysis
-3. Proximity Analysis
-4. Accessibility to Seaports and Airports
-5. GIS-Based Multiple-Criteria Decision Analysis
-6. Choropleth Maps
+2. Raster to Vector
+3. Binary Analysis
+4. Proximity Analysis
+5. Accessibility to Seaports and Airports
+6. GIS-Based Multiple-Criteria Decision Analysis
+7. Choropleth Maps
 
 
 ## Results 

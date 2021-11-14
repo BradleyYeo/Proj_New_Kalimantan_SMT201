@@ -9,7 +9,7 @@ poster_height: "23.39in"
 poster_width: "33.11in"
 font_family: "Helvetica"
 primary_colour: "#FFFFFF"
-secondary_colour: "#F8BD31"
+secondary_colour: "#87AAAA"
 accent_colour: "#353B39"
 body_bgcol: "#EAD2AE"
 link-citations: true 
@@ -55,5 +55,4 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Further Reading
 1. [Indonesia Sets 2024 Deadline to Move Its Capital to Borneo](https://www.bloomberg.com/news/articles/2021-11-01/indonesia-sets-2024-deadline-to-move-its-new-capital-to-borneo)
 2. [Jakarta Ruled Guilty of Neglecting Jakartans Right to Cleean Air](https://www.bloomberg.com/news/articles/2021-09-16/jokowi-ruled-guilty-of-neglecting-jakartans-right-to-clean-air)
-
 3. [A Capital City in the Jungle](https://www.bloomberg.com/opinion/articles/2019-08-18/a-brasilia-in-borneo-jokowi-has-a-capital-idea-for-indonesia)

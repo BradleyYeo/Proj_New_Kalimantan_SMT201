@@ -1,15 +1,60 @@
 ---
-title: "Project Poster"
-description: |
-  PDF of Project Poster
-output: 
-  distill::distill_article:
-    toc: true
-    toc_depth: 3
+title: "Project Sepaku"
+main_findings: "The new capital of Indonesia should be in Binuang, Sepaku"
+main_fontfamily: "Roboto Slab"
+main_width: "0.3"
+main_textsize: "120px"
+main_textcol: "#353B39"
+poster_height: "23.39in"
+poster_width: "33.11in"
+font_family: "Helvetica"
+primary_colour: "#FFFFFF"
+secondary_colour: "#F8BD31"
+accent_colour: "#353B39"
+body_bgcol: "#EAD2AE"
+link-citations: true 
+output:
+  posterdown::posterdown_betterland:
+    self_contained: false
+    pandoc_args: --mathjax
+    highlight: espresso
+    number_sections: false
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Problem:
+> Indonesia needs to relocate the new capital from Jakarta to city in East Kalimantan, Borneo.
 
+> It is very difficult to analyse the entire province of East Kalimantan using either Google Maps or hand-drawn maps. This is because of the huge land area and many differences in topological characteristics of the land.
+
+## Motivation 
+1. Leverage GIS skills to  analyse a *large land area*.
+2. *Learn Bahasa Indonesia* to translate fields into English.
+3. Integrate *dirty* and *missing data* from *multiple sources*.
+
+## GIS Analysis Techniques used (Approach):
+1. Raster Distance
+2. Binary Analysis
+3. Proximity Analysis
+4. Accessibility to Seaports and Airports
+5. GIS-Based Multiple-Criteria Decision Analysis
+6. Choropleth Maps
+
+
+## Results 
+- Screenshots and a working demo of the system you built.
+- Insert picture here
+
+## Future Work 
+1. Proportional Symbol map of **high GDP growth areas** after capital has been relocated.
+2. Proportional Symbol map showing **carbon emissions** by region or city.
+3. Choropleth map showing **infant mortality rate** as it is one of the best indicators of the livability of a city.
+
+### Further Reading
+1. [Indonesia Sets 2024 Deadline to Move Its Capital to Borneo](https://www.bloomberg.com/news/articles/2021-11-01/indonesia-sets-2024-deadline-to-move-its-new-capital-to-borneo)
+2. [Jakarta Ruled Guilty of Neglecting Jakartans Right to Cleean Air](https://www.bloomberg.com/news/articles/2021-09-16/jokowi-ruled-guilty-of-neglecting-jakartans-right-to-clean-air)
+
+3. [A Capital City in the Jungle](https://www.bloomberg.com/opinion/articles/2019-08-18/a-brasilia-in-borneo-jokowi-has-a-capital-idea-for-indonesia)

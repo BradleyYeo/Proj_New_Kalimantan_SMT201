@@ -53,11 +53,10 @@
     },
     {
       "path": "poster.html",
-      "title": "Project Poster",
-      "description": "PDF of Project Poster\n",
+      "title": "Project Sepaku",
       "author": [],
-      "contents": "\n\nContents\n\n\n\n\n",
-      "last_modified": "2021-10-16T16:28:56+08:00"
+      "contents": "\n\n\n\nSMT201 GIS Project Website\nOverview\nReport\nPoster\n\n\nHome\nAbout Us\n☰\n\n\n\n\nProject Sepaku\n\n\n\n\n\n\nProblem:\n\nIndonesia needs to relocate the new capital from Jakarta to city in East Kalimantan, Borneo.\n\n\nIt is very difficult to analyse the entire province of East Kalimantan using either Google Maps or hand-drawn maps. This is because of the huge land area and many differences in topological characteristics of the land.\n\n\n\nMotivation\nLeverage GIS skills to analyse a large land area.\nLearn Bahasa Indonesia to translate fields into English.\nIntegrate dirty and missing data from multiple sources.\n\n\nGIS Analysis Techniques used (Approach):\nRaster Distance\nBinary Analysis\nProximity Analysis\nAccessibility to Seaports and Airports\nGIS-Based Multiple-Criteria Decision Analysis\nChoropleth Maps\n\n\nResults\nScreenshots and a working demo of the system you built.\nInsert picture here\n\n\nFuture Work\nProportional Symbol map of high GDP growth areas after capital has been relocated.\nProportional Symbol map showing carbon emissions by region or city.\nChoropleth map showing infant mortality rate as it is one of the best indicators of the livability of a city.\n\nFurther Reading\nIndonesia Sets 2024 Deadline to Move Its Capital to Borneo\nJakarta Ruled Guilty of Neglecting Jakartans Right to Cleean Air\nA Capital City in the Jungle\n\n\n\n\n\nThe new capital of Indonesia should be in Binuang, Sepaku\n\n\n\n\n\n\n\n\n\n\n\n",
+      "last_modified": "2021-11-14T12:07:33+08:00"
     },
     {
       "path": "report.html",

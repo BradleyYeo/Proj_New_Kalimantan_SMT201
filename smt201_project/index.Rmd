@@ -7,14 +7,15 @@ site: distill::distill_website
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-
 # Learn more about creating websites with Distill at:
 # https://rstudio.github.io/distill/website.html
-
 ```
 
-![](img/east_kalimantan.png)
+<a href="https://smt201-g1t11-site.netlify.app" target="_blank">Check out our webmap here</a>
+
+![](img/site-selected.png)
 
 <center>
   *Site for Analysis*
 </center>
+

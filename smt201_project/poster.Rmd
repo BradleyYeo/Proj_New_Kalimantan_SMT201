@@ -1,10 +1,11 @@
 ---
-title: "East Kalimantan"
+title: "Muara Badak"
 title_textsize: "100pt"
-main_findings: "The new capital of Indonesia should be in __, __ " 
+main_findings: "The new capital of Indonesia should be in Badak Mekar, Sungai Bawang ![Final Site](img/FINAL_SITE.png){.main_pic}" 
 main_fontfamily: "Roboto Slab"
 main_width: "0.20"
 main_textsize: "120px"
+body_textsize: "32px"
 main_textcol: "#353B39"
 poster_height: "23.39in"
 poster_width: "33.11in"
@@ -14,7 +15,7 @@ secondary_colour: "#87AAAA"
 accent_colour: "#353B39"
 body_bgcol: "#FFFFFF"
 link-citations: true 
-main_picwidth: "130%"
+main_picwidth: "100%"
 output:
   posterdown::posterdown_betterland:
     self_contained: true
@@ -36,7 +37,7 @@ knitr::opts_chunk$set(echo = TRUE)
 3. Integrate *dirty* and *missing data* from *multiple sources*.
 
 ## Approach:
-1. Raster Distance
+1. Vector to Raster
 2. Raster to Vector
 3. Binary Analysis
 4. Proximity Analysis
@@ -45,16 +46,16 @@ knitr::opts_chunk$set(echo = TRUE)
 7. Choropleth Maps
 8. Site-Suitability Map
 9. Digital Elevation Model Map
-10.
-11.
-12.
-
 
 ## Results 
+![Site Analysed](img/Site-Selected.png){.main_pic}
+We analysed *Balikpapan, Samarinda, Kutai Kartanegara and Penajam Paser Utara*.
+
+
 ![Economically Active Group](img/economically_active_group.png){.main_pic}
-- Labour force is concentrated in **East Kutai Regency** and **Balikbapan**
+Labour force is concentrated in **East Kutai Regency** and **Balikbapan**
 ![Seaport Locations](img/Seaport_River.png){.main_pic}
-- Seaports are near **Balikbapan**, **Samarinda** and, **Kutai Kartanegara Regency**
+Seaports are near **Balikpapan**, **Samarinda** and, **Kutai Kartanegara Regency**
 
 ## Future Work 
 1. Proportional Symbol map of **high GDP growth areas** after capital has been relocated.

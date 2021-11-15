@@ -1,8 +1,9 @@
 ---
-title: "Project Sepaku"
-main_findings: "The new capital of Indonesia should be in Binuang, Sepaku"
+title: "East Kalimantan"
+title_textsize: "100pt"
+main_findings: "The new capital of Indonesia should be in __, __ " 
 main_fontfamily: "Roboto Slab"
-main_width: "0.25"
+main_width: "0.20"
 main_textsize: "120px"
 main_textcol: "#353B39"
 poster_height: "23.39in"
@@ -11,11 +12,12 @@ font_family: "Helvetica"
 primary_colour: "#FFFFFF"
 secondary_colour: "#87AAAA"
 accent_colour: "#353B39"
-body_bgcol: "#EAD2AE"
+body_bgcol: "#FFFFFF"
 link-citations: true 
+main_picwidth: "130%"
 output:
   posterdown::posterdown_betterland:
-    self_contained: false
+    self_contained: true
     pandoc_args: --mathjax
     highlight: espresso
     number_sections: false
@@ -41,11 +43,18 @@ knitr::opts_chunk$set(echo = TRUE)
 5. Accessibility to Seaports and Airports
 6. GIS-Based Multiple-Criteria Decision Analysis
 7. Choropleth Maps
+8. Site-Suitability Map
+9. Digital Elevation Model Map
+10.
+11.
+12.
 
 
 ## Results 
-- Screenshots and a working demo of the system you built.
-- Insert picture here
+![Economically Active Group](img/economically_active_group.png){.main_pic}
+- Labour force is concentrated in **East Kutai Regency** and **Balikbapan**
+![Seaport Locations](img/Seaport_River.png){.main_pic}
+- Seaports are near **Balikbapan**, **Samarinda** and, **Kutai Kartanegara Regency**
 
 ## Future Work 
 1. Proportional Symbol map of **high GDP growth areas** after capital has been relocated.

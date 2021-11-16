@@ -1,0 +1,22 @@
+---
+title: "Report of Survey"
+output: 
+  distill::distill_article:
+    toc: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## 1 Population
+
+The place with the highest economically active group is ranging from 10556 - 15816 people is:
+Kota Samarinda: Sungai Pitam Dalam
+The places with the second highest economically active group is ranging from 8013 - 10556 people are:
+Kota Balikpapan: GRAHA INDAH, MANGGAR, SEPINGGAN BARU, SEPINGGAN, BATU AMPAR, MUARARAPAK, KARANG REJO
+Kota Samarinda: SIDODADI, AIR PUTIH, LOA BAKUNG
+
+## 2 Economic and Business

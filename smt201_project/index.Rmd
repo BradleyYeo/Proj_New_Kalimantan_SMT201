@@ -11,10 +11,28 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/website.html
 ```
 
+## Site Selection
+
+
 <a href="https://smt201-g1t1-webmap.netlify.app/" target="_blank">Check out our webmap here</a>
 
-![](img/site-selected.png)
+Our ranking for the  AHP is as follows:
+1. Flooding (23.84%)
+2. River (21.74%)
+3. Slope Steepness (16.97%)
+4. Preserve Natural Forest (14.93%)
+5. Seaports Proximity (8.91%)
+6. Major Cities Proximity (5.74%)
+7. Road Accessibility (4.40%)
+8. Airports Proximity (3.47%)
 
+The most important part of every plan is planning on your plan not going according to plan. Natural disasters like earthquakes, floods and forest fires can be very destructive and the capital should be located far away from these areas. To reduce costs of building infrastructure and speed up the construction process, the area selected should avoid steep slopes and have relatively flat ground.
+
+As the new capital, the city should be located near other regions with an active labour force so as to recruit talent to build the city. Hence, it is important to locate the city near urban settlements like Balikpapan and Samarinda. As many construction materials will be needed to build the capital, it needs to have high accessibility via roads.  Building an airport takes several years, but with sufficient land and capital, it is possible to do so, as such being close to an airport is not as important as the other factors.
+
+
+![](img/site-selected.png)
+[Github Repository](https://github.com/BradleyYeo/Proj_New_Kalimantan_SMT201)
 <center>
   *Site for Analysis*
 </center>

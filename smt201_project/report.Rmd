@@ -1,5 +1,5 @@
 ---
-title: "Report"
+title: "Report of Survey"
 description: |
   GIS Project Report
 output: 
@@ -12,8 +12,97 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Check out our report here:
+## 1 Population
 
-[Report](https://docs.google.com/document/d/13V6LrphOoKGFe6g9McHAKHi2kOyaiaaXUaS2X3hOntI/edit?usp=sharing)
+### 1.1 Economically Active Group
 
+![](img/economically_active_group.png)
+
+The place with the highest economically active group is ranging from 10556 - 15816 people is:
+Kota Samarinda: Sungai Pitam Dalam
+The places with the second highest economically active group is ranging from 8013 - 10556 people are:
+Kota Balikpapan: GRAHA INDAH, MANGGAR, SEPINGGAN BARU, SEPINGGAN, BATU AMPAR, MUARARAPAK, KARANG REJO
+Kota Samarinda: SIDODADI, AIR PUTIH, LOA BAKUNG
+
+### 1.2 Population Density
+![](img/population_density.png)
+
+The place with the highest population density is:
+Kota Samarinda: Pelita
+Kota Balikpapan: Baru Ilir
+
+Based on our analysis of the Population, we can conclude that the majority of the population resides in our two urban areas, Samarinda and Balikpapan
+
+### 1.3 Population Distribution
+![](img/population_distribution.png)
+
+The places with the highest population count ranging from 33816-45505 are:
+Kota Balikpapan:  Manggar and Graha Indah  
+Kota Samarinda: Sungai Pitam Dalam
+The places with the second highest population count ranging from 33816-45505 are:
+Kota Balikpapan: MUARARAPAK, BATU AMPAR, SEPINGGAN, SEPINGGAN BARU
+Kota Samarinda: LOK BAHU, AIR PUTIH, LOA BAKUNG
+
+## 2 Economic and Business
+
+![](img/Agriculture.png)
+
+Some forests were effectively utilised to grow essential crops that boosts Indonesia’s economy. Given the large amount of land Indonesia has, the production of rubber, fruits, oil palm, wood fiber/timber shows that Indonesia is reliant on agriculture and that it is a huge contributor to Indonesia’s economy (Iswara, n.d.). 
+
+## 3 Transport and Communication
+
+### 3.1 Seaport
+![](img/Seaport_River.png)
+We have 12 seaports strategically located in our study area. All seaports are either near (1) major rivers or (2) coastlines. We can see that the centers of Balikpapan and Samarinda are near seaports. This emphasizes Balikpapan’s position as a seaport city where the exporting of their natural resources happens. According to our environmental study, it shows how resource rich our study area is, especially for products such as oil, rubber and timber.
+
+### 3.2 Roads
+![](img/transport.png)
+According to the order of importance based on OpenStreetMap’s Wikipage, we have motorway, trunk, primary, secondary, tertiary, residential, motorway_link, trunk_link, primary_link, secondary_link, tertiary_link. 
+
+Given that both Kota Balikpapan and Kota Samarinda are our two urban areas, this is heavily reflected on the map where they are densely populated with roads.
+
+The trunk road (orange) is the second most important road after the motorway. The trunk roads in central Kota Samarinda diverge, and paves its way to the two other regencies, Kutai Kartanegara, Kota Balikpapan, but not Penajam Paser Utara. There exists one unlinked trunk road in Penajam Paser Utara which would make transport to our two urban areas hard.
+
+Instead of reliance on the trunk roads, the primary roads (blue) in the central Kota Samarinda diverge, and pave its way to the three other regencies, Kutai Kartanegara, Kota Balikpapan, and Penajam Paser Utara. This is reflected in central Kota Balikpapan as well, as it paves its way to the three other regencies, Penajam Paser Utara, Kutai Kartanegara, and Kota Samarinda. 
+
+Thus, all four regencies are accessible to each other via the primary roads.
+
+## 4 Infrastructure
+
+### 4.1 Electricity and Power Substations
+
+![](img/PowerStations.png)
+East Kalimantan is one of the largest producers of coal in Indonesia and yet, it still needs to import coal for local needs. Coal is an important source of fuel for electricity in Indonesia. Furthermore, it contributes significantly to Indonesia's GDP. As Indonesia is trying to stop relying on imported coal, the majority of power substations in the central region of Samarinda is encouraging. Based on this analysis, we can conclude that the land area of Samarinda is an urban settlement area.
+
+When analyzing the distribution of substations and electrical lines we can overlay this map with earthquake prone areas to understand where electrical lines should be built. In areas prone to earthquakes, electrical lines should be above ground to reduce the costs of repairing them if they are damaged. In areas with a low probability of earthquakes, electrical lines can be underground.
+
+
+### 4.2 Water Supply
+
+![](img/WaterSupply.png)
+
+As streams and rivers are both sources of clean water (Puteri & Budianto, 2020), it is essential that we analyse our major rivers in the study area. We also looked into various Perusahaan Daerah Air Minum (PDAM), a state-owned business which distributes clean water to the general public. 
+
+We observed that PDAMs are strategically located along the major rivers. Since most PDAMs are at the central of Kutai Kartanegara and Kota Samarinda, adequate clean water provision and high sanitation levels are likely near those areas. 
+
+## 5 Environment and Hazard
+
+
+### 5.1 Slope Analysis
+![](img/hillshade_dem.png)
+Using the Hillshade and DEM layer, we can identify places that have very steep slopes and are not ideal for capital building:
+1. Kutai Kartanegara:  Sepakat, 
+2. Penajam Paser Utara: Sepaku , Bumi Harapan, Riko
+In our map, the slopes that are in blue are very steep, which are not ideal for our site selection.
+
+### 5.2 Forested Area and Forest Fires
+![](img/Forest_Fire.png)
+From this map, we can see that the East Kutai regency has the historically highest severity of Forest fires. Further down, the Kutai Kartanegara regency also experiences a high amount of forest fires. However, there are still parts of East Kalimantan relatively unscathed by forest fires like Balikpapan and the North Penajam Paser Regency.
+
+
+### 5.3 Sediment Distribution
+![](img/Sediment.png)
+In this Geology layer, we identify that there exists 5 different types of sediments: Alluvium, Daystone, Mudstone, Flish, Limestone, Sandstone. The finer the sediment grains, the easier the transportation process of the sediment moving in waters and therefore easier to build a new capital on top of the land because of the smaller amount of bumps and grind occurred.
+Sites such as the coastline of Kutai Kartanegara near water tend to have alluvium, a type of loose soil that has been eroded and carried in suspension by flood or river water before being deposited (Design Buildings, 2021). Ground conditions are poor, and it is not ideal for city building.
+Sites in Penajam Paser Utara and North Kutai Kartanegara have sandstone which is mainly sand residues that are very porous. Sandstone has been known to be resistant to weathering issues and often used in constructing buildings. Furthermore, because sandstone is porous, it is effective in separating pollutants from contaminated water to produce safe and clean water. 
 
